@@ -24,7 +24,16 @@ table{
 }
 
 h1{
-    color: darkred;
+    color: darkolivegreen;
     text-align: center
+}
+
+html{
+    background-color: lightslategray;
+}
+
+body{
+    background-color: lightslategray;
+
 }
 
