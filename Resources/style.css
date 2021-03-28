@@ -24,7 +24,7 @@ table{
 }
 
 h1{
-    color: darkolivegreen;
+    color: whitesmoke;
     text-align: center
 }
 
@@ -37,3 +37,6 @@ body{
 
 }
 
+p{
+    color:whitesmoke;
+}
