@@ -25,7 +25,8 @@ table{
 
 h1{
     color: whitesmoke;
-    text-align: center
+    text-align: center;
+    font-style:oblique
 }
 
 html{
@@ -39,7 +40,8 @@ body{
 
 p{
     color:whitesmoke;
-
+    font-size: larger;
+    font-style: oblique;
 }
 
 h3{
